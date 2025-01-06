@@ -136,19 +136,36 @@ p.note { display: none; }
 
 <h2><span class="yellow">タイの農家では庭で鶏を放し飼いして、卵を収穫しています</span></h2>
 <a href="20250105_001.JPG" target="_blank"><img src="20250105_001.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">中に賢いメスがいて、昔の倉庫の中で卵を産んでヒナにかえしちゃいました</span></h2>
 <a href="20250105_002.JPG" target="_blank"><img src="20250105_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250105_003.JPG" target="_blank"><img src="20250105_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">倉庫にいた雌鶏は見つかるとすぐに逃げて、子育て放棄<br>このままでは死んでしまうので、すでに子育て中の別のメスに託します</span></h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pP7xnvvXCnY?si=5TOq0ouK57E5GUus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
 <a href="20250105_004.JPG" target="_blank"><img src="20250105_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250105_005.JPG" target="_blank"><img src="20250105_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250105_006.JPG" target="_blank"><img src="20250105_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">この時期夜は冷えるので、夜間はカバーで保温します</span></h2>
 <a href="20250105_007.JPG" target="_blank"><img src="20250105_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250105_008.JPG" target="_blank"><img src="20250105_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250105_009.JPG" target="_blank"><img src="20250105_009.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">元からいたヒナ４羽 + 16羽の総勢20羽の子育て開始</span></h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gv59oV4vxnw?si=Mb7PvVKJGZDuPGHn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">このエリアをナワバリにするオスは、気ままに遊び回ってます</span></h2>
 <a href="20250105_010.JPG" target="_blank"><img src="20250105_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">子育て中のメスに危険が迫ると、外敵を追い払いました・・・種の保存本能ですね！</span></h2>
 <a href="20250105_011.JPG" target="_blank"><img src="20250105_011.JPG" alt="サンプル画像" width="900" /></a>
 
 
-<h2><span class="yellow">以上、今回は夕焼け空が多めでしたが、ここまで観ていただきありがとうございました。</span></h2>
+<h2><span class="yellow">以上、今回はニワトリの話ばかりでしたが、ここまで観ていただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
